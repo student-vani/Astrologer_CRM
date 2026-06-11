@@ -15,7 +15,7 @@
 
 ### 🔮 Personalized Astrology • 🤖 AI Astrologer • 🌍 Multi-Language Support
 
-[🚀 Live Demo](https://astro-gpt-eta.vercel.app/) • [⭐ Star Repository](https://github.com/VKoder/AstroGPT)
+[🚀 Live Demo](https://astro-gpt-eta.vercel.app/) 
 
 </div>
 
